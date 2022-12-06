@@ -1,0 +1,44 @@
+Programming language : Java/ Python
+Web Automation: Selenium, Cucumber
+API Automation: Restassured, Swagger, Postman, GraphQL
+Mobile Automation: Appium, Optimus Framework
+Performance Testing : Jmeter 
+Microservices Testing: Junit/ TestNG
+CI &CD : Maven, Gradle, Jenkins, Github, Docker
+Cloud: Kubernetes, Google Cloud 
+SDET
+
+====================================
+
+
+TestNG, 
+Selenium WebDriver
+
+Software Development Life Cycle (SDLC)
+
+Test Automation
+MySQL
+
+JUnit
+
+=============================
+
+React.js
+
+Angular7
+
+Data Structures
+
+AngularJS
+
+NodeJS
+CSS
+
+bootstrap
+
+MongoDB
+Microsoft Visual Studio Code
+
+JavaScript
+DBMS
+Full-Stack Development
